@@ -1,0 +1,84 @@
+Account Summary Report By Owner
+==============================================================================================================
+
+Account      Owner                   Manager            Fees          Return              Ret%           Value
+AC002      Gladys, Tatlock      Gladys, Tatlock            0.00        15009.00           24.25        76896.00
+AC001     Harold, Duncklee     Harold, Duncklee          100.00        15800.00         7900.00        16000.00
+                                                           ------------------------------------------------
+                                                         100.00 $   30809.00                        92896.00
+
+
+==================================
+Account Details
+==================================
+
+-------------------------------------------
+*******************************************
+Account Type: N
+Account Number: AC002
+*******************************************
+Owner: 
+Tatlock, Gladys
+[gtatlock0@boston.com, gtatlock0@wp.com]
+3224 Waxwing Place
+Newport Beach, CA US 92662
+*******************************************
+Manager: 
+Tatlock, Gladys
+[gtatlock0@boston.com, gtatlock0@wp.com]
+3224 Waxwing Place
+Newport Beach, CA US 92662
+*******************************************
+Beneficiary: 
+Tatlock, Gladys
+[gtatlock0@boston.com, gtatlock0@wp.com]
+3224 Waxwing Place
+Newport Beach, CA US 92662
+*******************************************
+Assets:
+JdnnB07ytxSb	 NVIDIA (stock)
+  Cost Basis:  300.00 shares @ $206.29 on 2018-03-02
+  Value Basis: 300.00 shares @ $256.32			24.25%			$76896.00
+Totals:
+Total Value: 			$76896.00
+Cost Basis: 			$61887.00
+Total Account Fees: 		$0.00
+Total Return: 			$15009.00
+Total Return %: 		24.25
+-------------------------------------------
+
+
+-------------------------------------------
+*******************************************
+Account Type: N
+Account Number: AC001
+*******************************************
+Owner: 
+Duncklee, Harold
+[hdunckleeb@mayoclinic.com, hdunckleeb@infoseek.co.jp]
+82 Clyde Gallagher Street
+Huntsville, AL US 35895
+*******************************************
+Manager: 
+Duncklee, Harold
+[hdunckleeb@mayoclinic.com, hdunckleeb@infoseek.co.jp]
+82 Clyde Gallagher Street
+Huntsville, AL US 35895
+*******************************************
+Beneficiary: 
+Duncklee, Harold
+[hdunckleeb@mayoclinic.com, hdunckleeb@infoseek.co.jp]
+82 Clyde Gallagher Street
+Huntsville, AL US 35895
+*******************************************
+Assets:
+PXEWBcI7h	 Signed Football (property)
+  Cost Basis: purchased @ $200.00 on 1989-06-08
+  Value Basis: appraised @ $16000.00 			 7900.00 %			$16000.00
+Totals:
+Total Value: 			$16000.00
+Cost Basis: 			$200.00
+Total Account Fees: 		$100.00
+Total Return: 			$15800.00
+Total Return %: 		7900.00
+-------------------------------------------

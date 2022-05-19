@@ -1,0 +1,68 @@
+[
+  {
+    "appraisedValue": 200000.0,
+    "code": "PCjxDSH2CZtb",
+    "type": "P",
+    "label": "Lamborghini Urus"
+  },
+  {
+    "exchangeRate": 0.3986,
+    "exchangeFee": 45.32,
+    "code": "I1GDJfHDepm",
+    "type": "C",
+    "label": "PotCoin"
+  },
+  {
+    "exchangeRate": 1.0573637E7,
+    "exchangeFee": 0.5,
+    "code": "MGjgHhzw4T",
+    "type": "C",
+    "label": "Coinye"
+  },
+  {
+    "symbol": "NVDA",
+    "sharePrice": 256.32,
+    "code": "JdnnB07ytxSb",
+    "type": "S",
+    "label": "NVIDIA"
+  },
+  {
+    "appraisedValue": 150000.0,
+    "code": "PxpXBtqoOhrqw",
+    "type": "P",
+    "label": "Rolls Royce Phantom"
+  },
+  {
+    "appraisedValue": 16000.0,
+    "code": "PXEWBcI7h",
+    "type": "P",
+    "label": "Signed Football"
+  },
+  {
+    "symbol": "FB",
+    "sharePrice": 228.07,
+    "code": "xYjHuShNH",
+    "type": "S",
+    "label": "Meta Platforms Inc"
+  },
+  {
+    "appraisedValue": 0.25,
+    "code": "PW7qcHD6XZv8D",
+    "type": "P",
+    "label": "Battlefield 2042"
+  },
+  {
+    "symbol": "AMZN",
+    "sharePrice": 3180.07,
+    "code": "VisoB9Q",
+    "type": "S",
+    "label": "Amazon"
+  },
+  {
+    "symbol": "BRK.B",
+    "sharePrice": 319.85,
+    "code": "MxbmmBn9SP",
+    "type": "S",
+    "label": "Berkshire Hathway Inc. Class B"
+  }
+]

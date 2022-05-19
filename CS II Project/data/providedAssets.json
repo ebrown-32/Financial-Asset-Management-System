@@ -1,0 +1,88 @@
+{
+"assets": [
+  {
+    "appraisedValue": 14500.0,
+    "assetCode": "PA005",
+    "label": "2020 Honda Fit"
+  },
+  {
+    "symbol": "CMG",
+    "sharePrice": 341.91,
+    "assetCode": "No1BURR",
+    "label": "Chipotle Mexican Grill"
+  },
+  {
+    "appraisedValue": 47000.0,
+    "assetCode": "PA002",
+    "label": "57 Chevy"
+  },
+  {
+    "appraisedValue": 400000.0,
+    "assetCode": "PA001",
+    "label": "Boardwalk"
+  },
+  {
+    "appraisedValue": 3.5,
+    "assetCode": "PA004",
+    "label": "1993 Ford Festiva"
+  },
+  {
+    "exchangeRate": 1.01,
+    "exchangeFeeRate": 0.085,
+    "assetCode": "SC1000",
+    "label": "StupidCoin 1k"
+  },
+  {
+    "exchangeRate": 0.2788,
+    "exchangeFeeRate": 0.0275,
+    "assetCode": "BARK",
+    "label": "Dogecoin"
+  },
+  {
+    "appraisedValue": 1200000.0,
+    "assetCode": "PA003",
+    "label": "Honus Wagner Card"
+  },
+  {
+    "symbol": "DDD",
+    "sharePrice": 35.4,
+    "assetCode": "N0TPIX",
+    "label": "3D Systems"
+  },
+  {
+    "symbol": "COST",
+    "sharePrice": 106.13,
+    "assetCode": "B0oWM",
+    "label": "Costco"
+  },
+  {
+    "symbol": "GOOG",
+    "sharePrice": 814.708,
+    "assetCode": "GOOG001",
+    "label": "Google Inc."
+  },
+  {
+    "exchangeRate": 4745.83,
+    "exchangeFeeRate": 0.0175,
+    "assetCode": "EIF101",
+    "label": "Ethereum"
+  },
+  {
+    "exchangeRate": 13.85,
+    "exchangeFeeRate": 0.055,
+    "assetCode": "SPICY",
+    "label": "Flow"
+  },
+  {
+    "symbol": "AAPL",
+    "sharePrice": 429.8,
+    "assetCode": "123APP",
+    "label": "Apple"
+  },
+  {
+    "exchangeRate": 65694.5,
+    "exchangeFeeRate": 0.0125,
+    "assetCode": "BTC001",
+    "label": "Bitcoin"
+  }
+]}

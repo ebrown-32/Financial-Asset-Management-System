@@ -1,0 +1,226 @@
+Account Summary Report By Owner
+==============================================================================================================
+Account                Owner                   Manager            Fees               Return              Ret%           Value
+AC001           Castro, Starlin         Hartnell, William        150.00            -16000.00             -3.72       414500.00
+AC004             Mertens, Finn             Gekko, Gordon        110.00           1333223.18            211.28      1964253.18
+AC003            O'Brien, Miles              Pertwee, Jon        100.00             38050.02             85.21        82707.02
+AC002            Sampson, Brock        Troughton, Patrick         75.00            -10000.00             -2.44       400000.00
+AC005               Sveum, Dale                  Fox, Bud          0.00            503095.00            277.94       684102.00
+AC006               Sveum, Dale                  Fox, Bud         75.00             56686.00            161.96        91686.00
+Totals $                                                         510.00 	  1905054.20 	 	 	    3637248.20
+
+Account Details Report
+====================
+Account: #AC001 (P)
+--------------------
+Owner: Castro, Starlin
+[scastro@cubs.com, starlin_castro13@gmail.com]
+1060 West Addison Street
+Chicago, IL USA 60613
+
+--------------------
+Manager: Hartnell, William
+[whartnell@doctors.com, dr@who.com]
+1060 West Addison Street
+Chicago, IL USA 60613
+
+--------------------
+Beneficiary: O'Brien, Miles
+[]
+123 Friendly Street
+Ottawa, ON Canada K1A 0G9
+
+--------------------
+PA001	Boardwalk (P)
+  Cost Basis: purchased @ 410000.00 on 2021-04-05
+  Value Basis: appraised @ 400000.00 	 -2.44% 	 $400000.00
+PA005	2020 Honda Fit (P)
+  Cost Basis: purchased @ 20500.00 on 2020-03-01
+  Value Basis: appraised @ 14500.00 	 -29.27% 	 $14500.00
+====================
+Total Value = $414500.00
+Cost Basis  = $430500.00
+Total Account Fees  = $150.00
+Total Return  = $-16000.00
+Total Return %  = -3.72%
+====================
+
+====================
+Account: #AC004 (N)
+--------------------
+Owner: Mertens, Finn
+[finn@atime.com]
+123 Tree House
+Ooo, NE USA 68116
+
+--------------------
+Manager: Gekko, Gordon
+[]
+1 Wall Street
+New York, NY USA 10005-0012
+
+--------------------
+Beneficiary: Sveum, Dale
+[sveum@cubs.com]
+1060 West Addison Street
+Chicago, IL USA 60613
+
+--------------------
+PA003	Honus Wagner Card (P)
+  Cost Basis: purchased @ 500000.00 on 2010-08-30
+  Value Basis: appraised @ 1200000.00 	 140.00% 	 $1200000.00
+123APP	Apple (S)
+  Cost Basis: 1000.00 @ 120.83 on 2001-10-30
+  Value Basis: 1000.00 @ 429.80 	 264.25% 	 $440121.00
+EIF101	Ethereum (C)
+  Cost Basis: 10.200 coins @ $1000.00 on 2012-09-01
+  Value Basis: 10.200 coins @ $32492.50 less 2.20% 	 3077.77% 	 $324132.18
+====================
+Total Value = $1964253.18
+Cost Basis  = $631030.00
+Total Account Fees  = $110.00
+Total Return  = $1333223.18
+Total Return %  = 211.28%
+====================
+
+====================
+Account: #AC003 (N)
+--------------------
+Owner: O'Brien, Miles
+[]
+123 Friendly Street
+Ottawa, ON Canada K1A 0G9
+
+--------------------
+Manager: Pertwee, Jon
+[jpet@whofan.com]
+301 Front St W
+Toronto, ON Canada M5V 2T6
+
+--------------------
+Beneficiary: Mertens, Finn
+[finn@atime.com]
+123 Tree House
+Ooo, NE USA 68116
+
+--------------------
+PA004	1993 Ford Festiva (P)
+  Cost Basis: purchased @ 3500.00 on 1995-07-01
+  Value Basis: appraised @ 3.50 	 -99.90% 	 $3.50
+GOOG001	Google Inc. (S)
+  Cost Basis: 100.00 @ 411.57 on 2016-02-03
+  Value Basis: 100.00 @ 814.71 	 100.95% 	 $82703.52
+====================
+Total Value = $82707.02
+Cost Basis  = $44657.00
+Total Account Fees  = $100.00
+Total Return  = $38050.02
+Total Return %  = 85.21%
+====================
+
+====================
+Account: #AC002 (P)
+--------------------
+Owner: Sampson, Brock
+[brock_f_sampson@gmail.com, bsampson@venture.com]
+123 N 1st Street
+Omaha, NE USA 68116
+
+--------------------
+Manager: Troughton, Patrick
+[ptroug@cse.unl.edu, ptrou32@unl.edu]
+1060 West Addison Street
+Chicago, IL USA 60613
+
+--------------------
+Beneficiary: Sveum, Dale
+[sveum@cubs.com]
+1060 West Addison Street
+Chicago, IL USA 60613
+
+--------------------
+PA001	Boardwalk (P)
+  Cost Basis: purchased @ 410000.00 on 2021-04-05
+  Value Basis: appraised @ 400000.00 	 -2.44% 	 $400000.00
+====================
+Total Value = $400000.00
+Cost Basis  = $410000.00
+Total Account Fees  = $75.00
+Total Return  = $-10000.00
+Total Return %  = -2.44%
+====================
+
+====================
+Account: #AC005 (N)
+--------------------
+Owner: Sveum, Dale
+[sveum@cubs.com]
+1060 West Addison Street
+Chicago, IL USA 60613
+
+--------------------
+Manager: Fox, Bud
+[bfox@gmail.com, csheen@crazy.net]
+321 Bronx Street
+New York, NY USA 10004
+
+--------------------
+Beneficiary: Castro, Starlin
+[scastro@cubs.com, starlin_castro13@gmail.com]
+1060 West Addison Street
+Chicago, IL USA 60613
+
+--------------------
+No1BURR	Chipotle Mexican Grill (S)
+  Cost Basis: 1100.00 @ 137.24 on 2003-06-03
+  Value Basis: 1100.00 @ 614.71 	 353.16% 	 $684102.00
+B0oWM	Costco (Call)
+  Buy upto 100.00 shares @ $354.25 til 2022-12-01
+  Premium of $300.43/share (0.00 total)
+  Share Price: $106.13
+  Call Value: 100.00 shares @ $300.43 = $0.00
+====================
+Total Value = $684102.00
+Cost Basis  = $181007.00
+Total Account Fees  = $0.00
+Total Return  = $503095.00
+Total Return %  = 277.94%
+====================
+
+====================
+Account: #AC006 (P)
+--------------------
+Owner: Sveum, Dale
+[sveum@cubs.com]
+1060 West Addison Street
+Chicago, IL USA 60613
+
+--------------------
+Manager: Fox, Bud
+[bfox@gmail.com, csheen@crazy.net]
+321 Bronx Street
+New York, NY USA 10004
+
+--------------------
+Beneficiary: Castro, Starlin
+[scastro@cubs.com, starlin_castro13@gmail.com]
+1060 West Addison Street
+Chicago, IL USA 60613
+
+--------------------
+PA002	57 Chevy (P)
+  Cost Basis: purchased @ 35000.00 on 2019-08-11
+  Value Basis: appraised @ 47000.00 	 34.29% 	 $47000.00
+PUTEX	NVIDIA (Put)
+  Sell upto 200.00 shares @ $454.25 til 2022-03-01
+  Premium of $223.43/share (44686.00 total)
+  Share Price: $212.47
+  Put Value: 200.00 shares @ $223.43 = $44686.00
+====================
+Total Value = $91686.00
+Cost Basis  = $35000.00
+Total Account Fees  = $75.00
+Total Return  = $56686.00
+Total Return %  = 161.96%
+====================
+

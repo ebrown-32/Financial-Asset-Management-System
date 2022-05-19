@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<assets>
+<property>
+  <code>CjxDSH2CZtb</code>
+  <type>P</type>
+  <label>Lamborghini Urus</label>
+  <appraisedValue>200000.0</appraisedValue>
+</property>
+<cryptocurrency>
+  <code>I1GDJfHDepm</code>
+  <type>C</type>
+  <label>PotCoin</label>
+  <exchangeRate>0.3986</exchangeRate>
+  <exchangeFee>45.32</exchangeFee>
+</cryptocurrency>
+<cryptocurrency>
+  <code>MGjgHhzw4T</code>
+  <type>C</type>
+  <label>Coinye</label>
+  <exchangeRate>1.0573637E7</exchangeRate>
+  <exchangeFee>0.5</exchangeFee>
+</cryptocurrency>
+<stock>
+  <code>JdnnB07ytxSb</code>
+  <type>S</type>
+  <label>NVIDIA</label>
+  <symbol>NVDA</symbol>
+  <sharePrice>256.32</sharePrice>
+</stock>
+<property>
+  <code>xpXBtqoOhrqw</code>
+  <type>P</type>
+  <label>Rolls Royce Phantom</label>
+  <appraisedValue>150000.0</appraisedValue>
+</property>
+<property>
+  <code>XEWBcI7h</code>
+  <type>P</type>
+  <label>Football</label>
+  <appraisedValue>6.99</appraisedValue>
+</property>
+<stock>
+  <code>xYjHuShNH</code>
+  <type>S</type>
+  <label>Meta Platforms Inc</label>
+  <symbol>FB</symbol>
+  <sharePrice>228.07</sharePrice>
+</stock>
+<property>
+  <code>W7qcHD6XZv8D</code>
+  <type>P</type>
+  <label>Battlefield 2042</label>
+  <appraisedValue>0.25</appraisedValue>
+</property>
+<stock>
+  <code>VisoB9Q</code>
+  <type>S</type>
+  <label>Amazon</label>
+  <symbol>AMZN</symbol>
+  <sharePrice>3180.07</sharePrice>
+</stock>
+<stock>
+  <code>MxbmmBn9SP</code>
+  <type>S</type>
+  <label>Berkshire Hathway Inc. Class B</label>
+  <symbol>BRK.B</symbol>
+  <sharePrice>319.85</sharePrice>
+</stock>
+</assets>

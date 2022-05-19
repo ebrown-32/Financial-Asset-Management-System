@@ -1,0 +1,59 @@
+{
+"assets": [
+  {
+    "appraisedValue": 200000,
+    "assetCode": "CjxDSH2CZtb",
+    "label": "Lamborghini Urus"
+  },
+  {
+    "exchangeRate": .3986,
+    "exchangeFeeRate": 45.32,
+    "assetCode": "I1GDJfHDepm",
+    "label": "PotCoin"
+  },
+  {
+    "exchangeRate": 10573637,
+    "exchangeFeeRate": .50,
+    "assetCode": "MGjgHhzw4T",
+    "label": "Coinye"
+  },
+  {
+    "symbol": "NVDA",
+    "sharePrice": 256.32,
+    "assetCode": "JdnnB07ytxSb",
+    "label": "NVIDIA"
+  },
+  {
+    "appraisedValue": 150000,
+    "assetCode": "xpXBtqoOhrqw",
+    "label": "Rolls Royce Phantom"
+  },
+  {
+    "appraisedValue": 6.99,
+    "assetCode": "XEWBcI7h",
+    "label": "Football"
+  },
+  {
+    "symbol": "FB",
+    "sharePrice": 228.07,
+    "assetCode": "xYjHuShNH",
+    "label": "Meta Platforms Inc"
+  },
+  {
+    "appraisedValue": .25,
+    "assetCode": "W7qcHD6XZv8D",
+    "label": "Battlefield 2042"
+  },
+  {
+    "symbol": "AMZN",
+    "sharePrice": 3180.07,
+    "assetCode": "VisoB9Q",
+    "label": "Amazon"
+  },
+  {
+    "symbol": "BRK.B",
+    "sharePrice": 319.85,
+    "assetCode": "MxbmmBn9SP",
+    "label": "Berkshire Hathway Inc. Class B"
+  }
+]}

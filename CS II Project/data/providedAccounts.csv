@@ -1,0 +1,37 @@
+6
+AC001,P,944c,321nd,2342,BTC001,2015-03-01,5000,5.25,PA001,2021-04-05,410000
+AC002,P,306a,nf32a,ma12,GOOG001,S,2016-02-03,411.57,100,1232.52,PA004,1995-07-01,3500
+AC003,N,2342,321na,F11n,123APP,S,2001-10-30,120.83,1000,10321,PA005,2020-03-01,10500
+AC004,N,F11n,aef1b,ma12,GOOG001,S,2020-01-01,928.52,150,0,123APP,S,2013-04-25,340.21,1500,87.25,N0TPIX,S,2016-11-03,125.5,10,0
+AC005,N,ma12,321fx,944c,N0TPIX,S,2018-02-28,12.5,10,0,BTC001,2021-01-01,65000,0.001,PA003,2010-08-30,500000
+ACOO6,P,ma12,321fx,944c,GOOG001,C,2021-01-01,3200,100,10,2021-12-31,GOOG001,C,2021-01-01,2800,100,100,2021-12-31,GOOG001,P,2021-01-01,3200,100,15,2021-12-31,GOOG001,P,2021-01-01,2900,100,25,2021-12-31
+
+%acctNumber,type,owner,manager,beneficiary
+
+
+
+
+crypto
+	private LocalDate purchaseDate;
+	private Double purchaseExchangeRate;
+	private Double numberOfCoins;
+
+stock
+    S
+	private LocalDate purchaseDate;
+	private Double purchaseSharePrice;
+	private Double numberOfShares;
+	private Double dividendTotal; //since purchase
+	
+option
+    C or P
+	private LocalDate purchaseDate;
+	protected double strikePricePerShare;	
+	protected double shareLimit;
+	protected double premiumPerShare;
+	private LocalDate strikeDate; //or expiration date?
+
+
+property
+	private LocalDate purchaseDate;
+	private Double purchasePrice;
